@@ -24,6 +24,10 @@
 
 ```Note:``` after these operations were carried out, the arrays were concatenated together and then randomly shuffled before being turned into a Data Frame<br >
 
+### Final Data (34 out of 174 rows shown)
+![image](https://user-images.githubusercontent.com/64100540/188335118-31820921-c40a-4c0f-865d-388828abe9b8.png)
+
+
 ## Exploratory Data Analysis
 ### The ```ProfileReport``` functionality in the ```pandas_profiling``` module was used to generate the reports on the new data
 You can find the generated reports and the code base in the repository.
