@@ -26,3 +26,4 @@
 
 ## Exploratory Data Analysis
 ### The ```ProfileReport``` functionality in the ```pandas_profiling``` module was used to generate the reports on the new data
+You can find the generated reports and the code base in the repository.
