@@ -1,5 +1,5 @@
 # Data Augmentation and Exploratory Data Analysis
-### This study aims to find whether the effects of simple aritmetic operations on numerical data fields keep the trends in the original data or not.
+### This study aims to find whether the effects of simple aritmetic operations on numerical data fields keep the trends in the original data or not and whether they these arithmetic operations are a good way to augment data.
 ##### The dataset used is the ```Student Study Hours``` dataset from Kaggle: https://www.kaggle.com/datasets/himanshunakrani/student-study-hours?resource=download
 - Column1: Number of hours studied
 - Column2: Marks received
